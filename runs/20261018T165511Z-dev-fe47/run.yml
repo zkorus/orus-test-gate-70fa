@@ -5,7 +5,7 @@ role: dev
 item: "#1"
 machine: m-490ae0fc
 attempt: 1
-state: running
+state: finished
 resumes: null
 started: 2026-10-18T16:55:11Z
 role_commit: b9d14a9debdf8b856c87f0ddf54096f1ee56f5d7
@@ -15,7 +15,5 @@ gate:
     seconds: 0.3
     bytes: 145
     isolation: none
-checkpoint:
-  name: action
-  number: 1
-  at: 2026-10-18T16:55:53Z
+ended: 2026-10-18T16:56:00Z
+reason: 1 action performed
