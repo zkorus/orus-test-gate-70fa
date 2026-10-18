@@ -1,0 +1,11 @@
+v: 0
+run: 20261018T165511Z-dev-fe47
+repo: zkorus/orus-test-gate-70fa
+role: dev
+item: "#1"
+machine: m-490ae0fc
+attempt: 1
+state: running
+resumes: null
+started: 2026-10-18T16:55:11Z
+role_commit: b9d14a9debdf8b856c87f0ddf54096f1ee56f5d7
